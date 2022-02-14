@@ -15,8 +15,9 @@ A comprehensive survey of recent papers on Neural Network Pruning at Initializat
 
 
 **2020**
-- 2020-ICLR-[GraSP: Picking Winning Tickets Before Training By Preserving Gradient Flow](https://openreview.net/pdf?id=SkgsACVKPH) [[Code](https://github.com/alecwangcq/GraSP)]
+- 2020-ICLR-[Picking Winning Tickets Before Training By Preserving Gradient Flow](https://openreview.net/pdf?id=SkgsACVKPH) [[Code](https://github.com/alecwangcq/GraSP)]
 - 2020-ICLR-[Playing the lottery with rewards and multiple languages: Lottery tickets in RL and NLP](https://openreview.net/forum?id=S1xnXRVFwH)
+- 2020-ICLR-[Drawing early-bird tickets: Towards more efficient training of deep networks](https://arxiv.org/abs/1909.11957) (Spotlight)
 - 2020-ICLR-[The Early Phase of Neural Network Training](https://openreview.net/forum?id=Hkl1iRNFwS)
 - 2020-ICLR-[A signal propagation perspective for pruning neural networks at initialization](https://arxiv.org/abs/1906.06307)
 - 2020-ICLR-[Comparing Rewinding and Fine-tuning in Neural Network Pruning](https://openreview.net/forum?id=S1gSj0NKvB) [[Code](https://github.com/lottery-ticket/rewinding-iclr20-public)] (Oral)
