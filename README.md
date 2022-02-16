@@ -9,6 +9,7 @@ A comprehensive survey of recent papers on Neural Network Pruning at Initializat
 **2019**
 - 2019-ICLR-[Snip: Single-shot network pruning based on connection sensitivity](https://arxiv.org/abs/1810.02340)
 - 2019-ICLR-[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://openreview.net/forum?id=rJl-b3RcF7) [Best Paper!] [[Code 1](https://github.com/google-research/lottery-ticket-hypothesis)] [[Code 2](https://github.com/facebookresearch/open_lth)]
+- 2019-ICML-[Parameter efficient training of deep convolutional neural networks by dynamic sparse reparameterization](http://proceedings.mlr.press/v97/mostafa19a.html)
 - 2019-NIPS-[Deconstructing lottery tickets: Zeros, signs, and the supermask](https://papers.nips.cc/paper/2019/hash/1113d7a76ffceca1bb350bfe145467c6-Abstract.html)
 - 2019-NIPS-[One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers](https://papers.nips.cc/paper/2019/hash/a4613e8d72a61b3b69b32d040f89ad81-Abstract.html)
 - 2019.7-[Sparse networks from scratch: Faster training without losing performance](https://arxiv.org/abs/1907.04840) [[ICLR'20 rejected version](https://openreview.net/forum?id=ByeSYa4KPS)] [[Code](https://github.com/TimDettmers/sparse_learning)]
