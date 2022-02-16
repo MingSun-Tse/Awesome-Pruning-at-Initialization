@@ -35,6 +35,7 @@ A comprehensive survey of recent papers on Neural Network Pruning at Initializat
 - 2020-NIPS-[The Lottery Ticket Hypothesis for Pre-trained BERT Networks](https://arxiv.org/abs/2007.12223)
 - 2020-Neural Computing and Applications-[Sparse evolutionary deep learning with over one million artificial neurons on commodity hardware](https://link.springer.com/article/10.1007/s00521-020-05136-7)
 - 2020.2-[Calibrate and Prune: Improving Reliability of Lottery Tickets Through Prediction Calibration](https://arxiv.org/abs/2002.03875)
+- 2020.9-[The Hardware Lottery](https://arxiv.org/abs/2009.06489)
 - 2020.10-[The Sooner The Better: Investigating Structure of Early Winning Lottery Tickets](https://openreview.net/forum?id=BJlNs0VYPB)
 
 **2021**
@@ -60,3 +61,4 @@ A comprehensive survey of recent papers on Neural Network Pruning at Initializat
 - 2022-ICLR-[Dual Lottery Ticket Hypothesis](https://openreview.net/forum?id=fOsN52jn25l)
 - 2022-ICLR-[The Unreasonable Effectiveness of Random Pruning: Return of the Most Naive Baseline for Sparse Training](https://openreview.net/forum?id=VBZJ_3tz-t)
 - 2022-ICLR-[Deep Ensembling with No Overhead for either Training or Testing: The All-Round Blessings of Dynamic Sparsity](https://openreview.net/forum?id=RLtqs6pzj1-)
+- 2022-ICLR-[Pixelated butterfly: Simple and efficient sparse training for neural network models](https://openreview.net/pdf?id=Nfl-iXa-y7R) [[Code](https://github.com/HazyResearch/pixelfly)]
