@@ -34,6 +34,7 @@ A comprehensive survey of recent papers on Neural Network Pruning at Initializat
 - 2020-NIPS-[Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://proceedings.neurips.cc/paper/2020/hash/eae15aabaa768ae4a5993a8a4f4fa6e4-Abstract.html)
 - 2020-NIPS-[The Lottery Ticket Hypothesis for Pre-trained BERT Networks](https://arxiv.org/abs/2007.12223)
 - 2020-Neural Computing and Applications-[Sparse evolutionary deep learning with over one million artificial neurons on commodity hardware](https://link.springer.com/article/10.1007/s00521-020-05136-7)
+- 2020-NIPS-[Train-by-Reconnect: Decoupling Locations of Weights from their Values](https://arxiv.org/abs/2003.02570)
 - 2020.2-[Calibrate and Prune: Improving Reliability of Lottery Tickets Through Prediction Calibration](https://arxiv.org/abs/2002.03875)
 - 2020.9-[The Hardware Lottery](https://arxiv.org/abs/2009.06489)
 - 2020.10-[The Sooner The Better: Investigating Structure of Early Winning Lottery Tickets](https://openreview.net/forum?id=BJlNs0VYPB)
@@ -56,6 +57,8 @@ A comprehensive survey of recent papers on Neural Network Pruning at Initializat
 - 2021-NIPS-[Sparse Training via Boosting Pruning Plasticity with Neuroregeneration](https://proceedings.neurips.cc/paper/2021/hash/5227b6aaf294f5f027273aebf16015f2-Abstract.html) [[Code](https://github.com/VITA-Group/GraNet)]
 - 2021-NIPS-[Sanity Checks for Lottery Tickets: Does Your Winning Ticket Really Win the Jackpot?](https://proceedings.neurips.cc/paper/2021/file/6a130f1dc6f0c829f874e92e5458dced-Paper.pdf)
 - 2021-ACL-[Parameter-Efficient Transfer Learning with Diff Pruning](https://arxiv.org/abs/2012.07463)
+- 2021.6-[Why is Pruning at Initialization Immune to Reinitializing and Shuffling](https://arxiv.org/pdf/2107.01808.pdf)
+- 2021.7-[Connectivity Matters: Neural Network Pruning Through the Lens of Effective Sparsity](https://arxiv.org/abs/2107.02306)
 
 **2022**
 - 2022-ICLR-[Dual Lottery Ticket Hypothesis](https://openreview.net/forum?id=fOsN52jn25l)
