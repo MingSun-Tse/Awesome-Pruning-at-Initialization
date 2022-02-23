@@ -1,5 +1,6 @@
 # Awesome Pruning at Initialization [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A comprehensive survey of recent papers on Neural Network Pruning at Initialization (PaI).
+[[Survey](https://arxiv.org/abs/2103.06460) | [Code](https://github.com/MingSun-Tse/Smile-Pruning)]
 
 **2018**
 - 2018-ICLR-[Deep rewiring: Training very sparse deep networks](https://arxiv.org/abs/1711.05136)
