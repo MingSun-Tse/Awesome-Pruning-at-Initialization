@@ -36,6 +36,7 @@ A comprehensive survey of recent papers on Neural Network Pruning at Initializat
 - 2020-NIPS-[Winning the Lottery with Continuous Sparsification](https://papers.nips.cc/paper/2020/hash/83004190b1793d7aa15f8d0d49a13eba-Abstract.html)
 - 2020-NIPS-[Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://proceedings.neurips.cc/paper/2020/hash/eae15aabaa768ae4a5993a8a4f4fa6e4-Abstract.html)
 - 2020-NIPS-[The Lottery Ticket Hypothesis for Pre-trained BERT Networks](https://arxiv.org/abs/2007.12223)
+- 2020-NIPS-[Optimal Lottery Tickets via SubsetSum: Logarithmic Over-Parameterization is Sufficient](https://arxiv.org/abs/2006.07990)
 - 2020-Neural Computing and Applications-[Sparse evolutionary deep learning with over one million artificial neurons on commodity hardware](https://link.springer.com/article/10.1007/s00521-020-05136-7)
 - 2020-NIPS-[Train-by-Reconnect: Decoupling Locations of Weights from their Values](https://arxiv.org/abs/2003.02570)
 - 2020-NIPS-[Pruning neural networks without any data by iteratively conserving synaptic flow](https://arxiv.org/abs/2006.05467)
@@ -69,3 +70,4 @@ A comprehensive survey of recent papers on Neural Network Pruning at Initializat
 - 2022-ICLR-[The Unreasonable Effectiveness of Random Pruning: Return of the Most Naive Baseline for Sparse Training](https://openreview.net/forum?id=VBZJ_3tz-t)
 - 2022-ICLR-[Deep Ensembling with No Overhead for either Training or Testing: The All-Round Blessings of Dynamic Sparsity](https://openreview.net/forum?id=RLtqs6pzj1-)
 - 2022-ICLR-[Pixelated butterfly: Simple and efficient sparse training for neural network models](https://openreview.net/pdf?id=Nfl-iXa-y7R) [[Code](https://github.com/HazyResearch/pixelfly)]
+- 2022-AISTATS-[Finding Everything within Random Binary Networks](https://arxiv.org/abs/2110.08996)
