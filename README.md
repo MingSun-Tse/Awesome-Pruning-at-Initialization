@@ -70,4 +70,5 @@ A comprehensive survey of recent papers on Neural Network Pruning at Initializat
 - 2022-ICLR-[The Unreasonable Effectiveness of Random Pruning: Return of the Most Naive Baseline for Sparse Training](https://openreview.net/forum?id=VBZJ_3tz-t)
 - 2022-ICLR-[Deep Ensembling with No Overhead for either Training or Testing: The All-Round Blessings of Dynamic Sparsity](https://openreview.net/forum?id=RLtqs6pzj1-)
 - 2022-ICLR-[Pixelated butterfly: Simple and efficient sparse training for neural network models](https://openreview.net/pdf?id=Nfl-iXa-y7R) [[Code](https://github.com/HazyResearch/pixelfly)]
+- 2022-ICLR-[Prospect Pruning: Finding Trainable Weights at Initialization using Meta-Gradients](https://arxiv.org/abs/2202.08132) [[Code](https://github.com/mil-ad/prospr)]
 - 2022-AISTATS-[Finding Everything within Random Binary Networks](https://arxiv.org/abs/2110.08996)
