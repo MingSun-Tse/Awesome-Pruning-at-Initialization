@@ -72,3 +72,5 @@ This repo aims to provide a comprehensive survey of recent papers on Neural Netw
 - 2022-ICLR-[Pixelated butterfly: Simple and efficient sparse training for neural network models](https://openreview.net/pdf?id=Nfl-iXa-y7R) [[Code](https://github.com/HazyResearch/pixelfly)]
 - 2022-ICLR-[Prospect Pruning: Finding Trainable Weights at Initialization using Meta-Gradients](https://arxiv.org/abs/2202.08132) [[Code](https://github.com/mil-ad/prospr)]
 - 2022-AISTATS-[Finding Everything within Random Binary Networks](https://arxiv.org/abs/2110.08996)
+- 2022-NIPS-[Layer Freezing & Data Sieving: Missing Pieces of a Generic Framework for Sparse Training](https://arxiv.org/abs/2209.11204) [[Code](https://github.com/snap-research/SpFDE)]
+- 2022-NIPS-[Parameter-Efficient Masking Network]() [[Code](https://github.com/yueb17/PEMN)]
