@@ -82,4 +82,13 @@ This repo aims to provide a comprehensive survey of recent papers on Neural Netw
 - 2022-NIPS-[Most Activation Functions Can Win the Lottery Without Excessive Depth](https://openreview.net/forum?id=NySDKS9SxN)
 - 2022-NIPS-[Sparse Winning Tickets are Data-Efficient Image Recognizers](https://openreview.net/forum?id=wfKbtSjHA6F)
 - 2022-NIPS-[Analyzing Lottery Ticket Hypothesis from PAC-Bayesian Theory Perspective](https://openreview.net/forum?id=fbUybomIuE)
+- 2022-NIPS-[Advancing Model Pruning via Bi-level Optimization](https://openreview.net/forum?id=t6O08FxvtBY)
+- 2022-NIPS-[Low-rank lottery tickets: finding efficient low-rank neural networks via matrix differential equations](https://openreview.net/forum?id=IILJ0KWZMy9)
+- 2022-NIPS-[Layer Freezing & Data Sieving: Missing Pieces of a Generic Framework for Sparse Training](https://openreview.net/forum?id=493VFz-ZvDD)
+- 2022-NIPS-[Exposing and Exploiting Fine-Grained Block Structures for Fast and Accurate Sparse Training](https://openreview.net/forum?id=sFapsu4hYo)
+- 2022-NIPS-[Where to Pay Attention in Sparse Training for Feature Selection?](https://openreview.net/forum?id=xWvI9z37Xd)
+- 2022-NIPS-[Get More at Once: Alternating Sparse Training with Gradient Correction](https://openreview.net/forum?id=lYZQRpqLesi)
+- 2022-NIPS-[Meta-ticket: Finding optimal subnetworks for few-shot learning within randomly initialized neural networks](https://openreview.net/forum?id=Cr4_3ptitj)
+- 2022-NIPS-[SparCL: Sparse Continual Learning on the Edge](https://openreview.net/forum?id=n0dD3d54Wgf)
+
 
