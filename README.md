@@ -79,6 +79,7 @@ This repo aims to provide a comprehensive survey of recent papers on Neural Netw
 - 2022-NIPS-[Pruning’s Effect on Generalization Through the Lens of Training and Regularization](https://openreview.net/forum?id=OrcLKV9sKWp)
 - 2022-NIPS-[Lottery Tickets on a Data Diet: Finding Initializations with Sparse Trainable Networks](https://openreview.net/forum?id=QLPzCpu756J)
 - 2022-NIPS-[Robust Binary Models by Pruning Randomly-initialized Networks](https://openreview.net/forum?id=5g-h_DILemH)
-
-
+- 2022-NIPS-[Most Activation Functions Can Win the Lottery Without Excessive Depth](https://openreview.net/forum?id=NySDKS9SxN)
+- 2022-NIPS-[Sparse Winning Tickets are Data-Efficient Image Recognizers](https://openreview.net/forum?id=wfKbtSjHA6F)
+- 2022-NIPS-[Analyzing Lottery Ticket Hypothesis from PAC-Bayesian Theory Perspective](https://openreview.net/forum?id=fbUybomIuE)
 
